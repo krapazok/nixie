@@ -6,10 +6,10 @@
 server_id=`hostname`;
 
 #MYSQL
-sql_user='nixie';
-sql_pass='nixie';
-sql_host='gurdil.be';
-sql_table='nixie';
+sql_user='';
+sql_pass='';
+sql_host='';
+sql_table='';
 
 #UPDATE SERVER
 
